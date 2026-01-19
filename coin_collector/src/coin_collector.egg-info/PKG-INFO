@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: coin-collector
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.12.5
+Requires-Dist: pygame>=2.6.1
+Requires-Dist: pytest>=9.0.2
+Requires-Dist: ruff>=0.14.13
+Requires-Dist: typer>=0.21.1

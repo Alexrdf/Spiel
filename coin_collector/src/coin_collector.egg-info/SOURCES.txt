@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/coin_collector/__init__.py
+src/coin_collector/__main__.py
+src/coin_collector/config.py
+src/coin_collector/game.py
+src/coin_collector.egg-info/PKG-INFO
+src/coin_collector.egg-info/SOURCES.txt
+src/coin_collector.egg-info/dependency_links.txt
+src/coin_collector.egg-info/requires.txt
+src/coin_collector.egg-info/top_level.txt
+tests/test_config.py
